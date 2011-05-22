@@ -1,5 +1,5 @@
-# Hello everyone
+# Say hello to everyone
 echo hello world
 
-# Hello individuals
+# Say hello to individuals
 echo hello Jason
